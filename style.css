@@ -1,0 +1,12 @@
+fieldset{
+    border-radius: 2em;
+   background-color: antiquewhite;
+}
+button{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
